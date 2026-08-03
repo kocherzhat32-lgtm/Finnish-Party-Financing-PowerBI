@@ -12,6 +12,16 @@ An end-to-end Business Intelligence & Data Analytics project evaluating financia
 
 ---
 
+## 📊 Data Source & Compliance
+
+The datasets used in this project are retrieved from the official Finnish Party Financing Supervision portal, managed by the National Audit Office of Finland (*Valtiontalouden tarkastusvirasto VTV*):
+
+🔗 **Official Disclosures Portal:** [Vaalirahoitusvalvonta.fi](https://www.vaalirahoitusvalvonta.fi/fi/index/puoluerahoitus/puoluerahoitusvalvonnan-ilmoitukset/tilinpaatostiedot.html)
+
+The analysis covers annual financial statements, campaign expenditure statements, state subsidy allocations, and private donation disclosures for the **2023–2025** financial cycle across Finland's 5 major parliamentary parties.
+
+---
+
 ## 📂 Repository Structure
 ```text
 ├── README.md
