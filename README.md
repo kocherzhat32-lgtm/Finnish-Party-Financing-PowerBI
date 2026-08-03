@@ -32,8 +32,8 @@ An end-to-end Business Intelligence & Data Analytics project evaluating financia
 └── powerbi/                                          # BI Assets & Executive Reports
     ├── Finland_Political_Parties_BI_Dashboard.pbix   # Interactive Power BI File
     ├── Finland_Political_Parties_BI_Dashboard.pdf    # Visual Dashboard Export
-    └── Finnish_Party_Financing_Executive_Report.pdf  # Final Executive Analytics Report```
-
+    └── Finnish_Party_Financing_Executive_Report.pdf  # Final Executive Analytics Report
+```
 
 ## 💡 Key Metrics & Financial Insights
 
