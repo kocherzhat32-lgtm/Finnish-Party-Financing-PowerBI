@@ -74,6 +74,6 @@ The analysis covers annual financial statements, campaign expenditure statements
 ## 👩‍💻 Author
 
 **Oksana Kocherzhat**  
-Junior Data Analyst (OAMK)  
+ Data Analyst (OAMK)  
 📍 Finland  
 🔗 LinkedIn: www.linkedin.com/in/oksana-kocherzhat-834518231
