@@ -1,38 +1,47 @@
-# 📊 Finnish Political Party Financing & Campaign Expenses (2023–2025)
+📊 Finnish Political Party Financing & Campaign Expenses (2023–2025)
+📌 Project Overview
+An end-to-end Business Intelligence & Data Analytics project evaluating financial disclosures, election campaign expenditures, state subsidies, workforce costs, and private donations across Finland's 5 major political parties during the 2023–2025 electoral cycle.
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Data_Modeling-blue?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power_Query-ETL-green?style=for-the-badge)
+📄 Executive Analytics Report: Download Executive PDF Report
 
-## 📌 Project Overview
-An end-to-end Business Intelligence & Data Analytics project evaluating financial disclosures, election campaign expenditures, state subsidies, workforce costs, and private donations across Finland's 5 major political parties during the **2023–2025 electoral cycle**.
+📊 Dashboard PDF Export: Download Dashboard PDF
 
-📄 **Executive Analytics Report:** [Download Executive PDF Report](./powerbi/Finnish_Party_Financing_Executive_Report.pdf)  
-📊 **Dashboard PDF Export:** [Download Dashboard PDF](./powerbi/Finland_Political_Parties_BI_Dashboard.pdf)
+📂 Repository Structure
+data_processed/ — Cleansed & Merged Excel Workbooks
 
----
+CampaignExpenses_2023-2025.xlsx
 
-## 📂 Repository Structure
-```text
-├── README.md
-├── data_processed/                                   # Cleansed & Merged Excel Workbooks
-│   ├── CampaignExpenses_2023-2025.xlsx
-│   ├── Donations_2023-2025.xlsx
-│   ├── Financials_2023-2025.xlsx
-│   ├── HR_Expenses_2023-2025.xlsx
-│   ├── PartyGrants_2023-2025.xlsx
-│   ├── StateSupport_Transfers_2023-2025.xlsx
-│   └── StateSupport_Use_2023-2025.xlsx
-├── data_raw/                                         # Raw Financial Disclosures (Zipped by Party)
-│   ├── kokomus.zip
-│   ├── perussuomalaiset.zip
-│   ├── sdp.zip
-│   ├── suomen_keskusta.zip
-│   └── vihrea_liitto.zip
-└── powerbi/                                          # BI Assets & Executive Reports
-    ├── Finland_Political_Parties_BI_Dashboard.pbix   # Interactive Power BI File
-    ├── Finland_Political_Parties_BI_Dashboard.pdf    # Visual Dashboard Export
-    └── Finnish_Party_Financing_Executive_Report.pdf  # Final Executive Analytics Report
+Donations_2023-2025.xlsx
+
+Financials_2023-2025.xlsx
+
+HR_Expenses_2023-2025.xlsx
+
+PartyGrants_2023-2025.xlsx
+
+StateSupport_Transfers_2023-2025.xlsx
+
+StateSupport_Use_2023-2025.xlsx
+
+data_raw/ — Raw Financial Disclosures (Zipped by Party)
+
+kokomus.zip
+
+perussuomalaiset.zip
+
+sdp.zip
+
+suomen_keskusta.zip
+
+vihrea_liitto.zip
+
+powerbi/ — BI Assets & Executive Reports
+
+Finland_Political_Parties_BI_Dashboard.pbix (Interactive Power BI File)
+
+Finland_Political_Parties_BI_Dashboard.pdf (Visual Dashboard Export)
+
+Finnish_Party_Financing_Executive_Report.pdf (Final Executive Analytics Report)
 
 💡 Key Metrics & Financial Insights
 Total Campaign Expenses: €29.37M across 5 major parties over 3 years.
